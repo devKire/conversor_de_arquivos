@@ -1,0 +1,6 @@
+# FFImg Converter — dependências Python
+# Instale com: pip install -r requirements.txt
+
+customtkinter>=5.2.0       # Interface gráfica moderna
+Pillow>=10.0.0             # Preview de imagens
+tkinterdnd2>=0.3.0         # Drag and drop (opcional mas recomendado)
